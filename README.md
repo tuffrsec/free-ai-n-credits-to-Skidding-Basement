@@ -1,6 +1,6 @@
 # free-ai-n-credits-to-Skidding-Basement
 Free ai (FA) is an open-source, AGPL-v3 licensed Python tool that acts as a local proxy wrapper. It allows you to route 12 different AI coding assistants (like Claude Code, Codex, and Aider) through 61 different AI providers (including Nvidia NIM, Gemini, DeepSeek, and free tiers) with built-in token optimization and fallback reliability.
-
+If  you need help dm us
 🚀 Quick Start
 
 1. Install:
@@ -13,7 +13,7 @@ Free ai (FA) is an open-source, AGPL-v3 licensed Python tool that acts as a loca
 	• Codex: fcc-codex
 	• OpenCode 2: fcc-opencode
 	• Cline: fcc-cline / Aider: fcc-aider
-
+# Umm Ai did not simplify this shi so just run it or smt
 🔌 Editor & App Integrations
 
 To use FCC inside your IDE or desktop applications, open Admin UI → Integrations and click Connect on the corresponding card:
