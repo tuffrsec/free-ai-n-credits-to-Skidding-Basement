@@ -23,6 +23,7 @@ Free AI (FA) is an open-source, AGPL-v3 licensed Python proxy wrapper. It routes
 	• fcc-codex (Codex)
 	• fcc-cline (Cline)
 	• fcc-aider (Aider)
+5. if you have problems installing through the command please install the zip in the repo.
 # if anything dm us  cuz ai did not cook with the quick install help shi
 🔌 IDE & App Integrations
 
